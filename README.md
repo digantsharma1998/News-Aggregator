@@ -23,8 +23,8 @@ Our news aggregator works in 3 steps:<br>
 
 ----------------------------------------------------------------------------------------
 ### Screenshots ###
-![]()
-![]()---------------------------------------------------------------------------------------
+![](https://github.com/digantsharma1998/News-Aggregator/blob/main/screenshots/cr7.PNG)
+![](https://github.com/digantsharma1998/News-Aggregator/blob/main/screenshots/cr71.PNG)---------------------------------------------------------------------------------------
 
 ## How To Use
 #### Software Requirements
